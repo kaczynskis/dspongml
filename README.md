@@ -1,7 +1,7 @@
 # Pong Lab: ML Player
 
 ## Gif of AI Playing  
-!(./pong.gif)
+![Pong Gameplay Gif](./pong.gif)
 
 ## Model  
 The model employed is a linear regression model using the fit intercept hyperparameter to specify that intercept is not 0.  
